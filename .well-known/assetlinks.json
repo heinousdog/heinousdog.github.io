@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.com.heinousdog.chordtonetable",
+    "sha256_cert_fingerprints":
+    ["C9:56:B7:3F:ED:CE:F7:35:6B:BF:EA:49:1C:76:96:32:32:3A:6C:76:92:92:B6:07:47:6B:20:93:9D:19:92:B4"]
+  }
+}]
